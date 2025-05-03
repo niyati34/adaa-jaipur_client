@@ -85,6 +85,14 @@ Navigate to both the frontend and backend directories to install the required de
 
 Once both servers are running, you can access the application by navigating to [http://localhost:3000](http://localhost:3000) in your web browser.
 
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/1842e9d6-6be0-44e7-ac79-6ee49811c2f4)
+![image](https://github.com/user-attachments/assets/d9a7c31b-5f4b-4c88-9b1c-43e06a4a0378)
+![image](https://github.com/user-attachments/assets/1a8f0459-75d6-43d5-9e94-0107041c008f)
+
+---
+
 ## Key Features
 
 * *User Authentication*: Users can sign up, log in, and manage their accounts securely.
